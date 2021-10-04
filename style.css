@@ -1,0 +1,37 @@
+
+table,
+th,
+td {
+    border: 1px solid black;
+  }
+
+h1,h2 {
+    color: #32502E;
+}
+h3{
+  color: #406343;
+}
+a:hover{
+  color: orange;
+}
+a:visited{
+  color:purple;
+}
+
+img:hover{
+  background-color: red;
+}
+hr{
+  background-color:white;
+  width:10%;
+  border-style:none;
+  border-top-style:dotted;
+  border-width: 4px;
+  border-color: grey;
+}
+img{
+  height: 110px;
+  background-color: grey;
+  border: 1px solid;
+  border-color: black;
+}
